@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&family=Rajdhani:wght@300&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: blueviolet;
+    font-family: 'Pixelify Sans', cursive;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid gray;
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    color: cornflowerblue;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
